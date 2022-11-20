@@ -1,0 +1,1 @@
+# image-dump-for-poster-session
